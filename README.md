@@ -1,4 +1,5 @@
 # Snake Game with Arduino and LCD
+![header](https://github.com/manjit-baishya-datascience/Snake-Game-on-Arduino-and-16x2-LCD/assets/127611924/29c0ed55-34ba-4521-a0fc-91702cddf59f)
 
 This Arduino project implements a simple snake game using an LCD display and push buttons. The game features a snake that moves around the screen, eating randomly placed "monsters" to score points. The player controls the snake's movement using push buttons.
 

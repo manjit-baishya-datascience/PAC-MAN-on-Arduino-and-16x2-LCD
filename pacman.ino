@@ -42,12 +42,12 @@ int monster_prev_Y = 0;
 // defining custom character bitmap for snake
 byte snake[8] = {
   B11111,
-  B11111,
-  B11111,
-  B11111,
-  B11111,
-  B11111,
-  B11111,
+  B01110,
+  B01110,
+  B00100,
+  B00100,
+  B01110,
+  B01110,
   B11111
 };
 
